@@ -10,7 +10,7 @@ Throughout the development, we focused on optimizing performance, ensuring effic
 ### Images
 
 ![aqi4](https://github.com/Faariis/Car-selling-site/assets/84626163/eb593adc-4cf8-4a34-a001-693526e84636)
-![losangeles](https://github.com/Faariis/Car-selling-site/assets/84626163/4878e8aa-b64d-4051-884d-058c78b3ece4)
+![shanghai](https://github.com/Faariis/Car-selling-site/assets/84626163/d0b1f8d3-2906-48aa-a250-856c30304998)
 
 
 
