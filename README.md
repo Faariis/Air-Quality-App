@@ -9,12 +9,8 @@ Throughout the development, we focused on optimizing performance, ensuring effic
 
 ### Images
 
-![aqi4](https://github.com/Faariis/Car-selling-site/assets/84626163/de0da5f7-ad1a-472b-b9bf-44e7ab0111f2)
-![aqi6](https://github.com/Faariis/Car-selling-site/assets/84626163/773f2b09-c5f7-4615-bb68-270ad5fb0202)
-![losangeles](https://github.com/Faariis/Car-selling-site/assets/84626163/ad428bd2-2bc4-44f8-a9e7-2061f1261d92)
-![sarajevo](https://github.com/Faariis/Car-selling-site/assets/84626163/310170b2-a4c6-4b04-8f7e-886f749a1f0f)
-![shangai](https://github.com/Faariis/Car-selling-site/assets/84626163/852a079d-271f-4a63-a58b-c5ebaa13e7c0)
-![zenica](https://github.com/Faariis/Car-selling-site/assets/84626163/130840cb-a857-47a6-b963-2b794d951973)
+![aqi4](https://github.com/Faariis/Car-selling-site/assets/84626163/eb593adc-4cf8-4a34-a001-693526e84636)
+![losangeles](https://github.com/Faariis/Car-selling-site/assets/84626163/4878e8aa-b64d-4051-884d-058c78b3ece4)
 
 
 
